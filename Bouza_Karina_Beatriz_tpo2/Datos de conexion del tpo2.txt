@@ -1,0 +1,5 @@
+Datos de conexión del proyecto a la base
+
+Nombre de la base de datos: peluqueria_canina
+Nombre de usuario: admin1
+Contraseña: pass
